@@ -1,0 +1,11 @@
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\bin\Debug\MySyntaxHighlighter.exe
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\bin\Debug\MySyntaxHighlighter.pdb
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\bin\Debug\MySyntaxHighlighter.xml
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\obj\Debug\MySyntaxHighlighter.Resources.resources
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\obj\Debug\MySyntaxHighlighter.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\obj\Debug\MySyntaxHighlighter.exe
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\obj\Debug\MySyntaxHighlighter.xml
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\obj\Debug\MySyntaxHighlighter.pdb
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\obj\Debug\MySyntaxHighlighter.Form1.resources
+E:\Documents\Visual Studio 2005\Projects\MySyntaxHighlighter\MySyntaxHighlighter\obj\Debug\MySyntaxHighlighter.SyntaxHighlighter.resources
